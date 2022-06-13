@@ -1,4 +1,8 @@
-# Livro de receitas
+# **Livro de receitas** 🧑‍🍳
 
- - Strogonoff de frango
-# livro-receitas
+Seja bem-vindo ao meu livro de receitas 👋
+
+## **Receitas**
+
+ - Strogonoff de frango 🐔
+
